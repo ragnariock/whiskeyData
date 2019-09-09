@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>661.jpg</filename>
+	<path>/home/ostap/Documents/project/ImageWork/Beta1/whiskey cup/countinue/image/661.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1371</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>whiskey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>751</xmin>
+			<ymin>410</ymin>
+			<xmax>1227</xmax>
+			<ymax>872</ymax>
+		</bndbox>
+	</object>
+</annotation>
